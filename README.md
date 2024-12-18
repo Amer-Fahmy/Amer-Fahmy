@@ -6,11 +6,10 @@
 - 💬 **Ask me about:** Data Scince Topics and Process
 - 📫 **How to reach me:** [Linkedin](https://www.linkedin.com/in/amer-fahmy/)
 
-## ⚙️ **My Skills**  
+
+<h2> <img width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> **My Skills**</h2>
 <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,r,postgres,sqlite,mysql,github,aws,azure" />
 
-<h2> <img width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"> My Skills</h2>
----
 
 ## 🏆 **Key Achievements**  
 
