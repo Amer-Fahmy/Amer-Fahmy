@@ -1,7 +1,7 @@
 ## Hello, I'm Amer 👋
 
 - 🔭 **Freelance & Consultant Data Scientist**
-- 🌱 **I’m currently Learning:** MLops and Gen AI apps.
+- 🌱 **I’m currently Learning:**  Gen AI apps.
 - 🤔 **Always curious about:** Learning everything in the Data Science field
 - 💬 **Ask me about:** Data Scince Topics and Process
 - 📫 **How to reach me:** [Linkedin](https://www.linkedin.com/in/amer-fahmy/)
